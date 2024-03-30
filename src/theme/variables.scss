@@ -242,3 +242,20 @@ html {
    */
   --ion-dynamic-font: var(--ion-default-dynamic-font);
 }
+:root {
+	--ion-color-new1: #401F71;
+	--ion-color-new1-rgb: 64,31,113;
+	--ion-color-new1-contrast: #ffffff;
+	--ion-color-new1-contrast-rgb: 255,255,255;
+	--ion-color-new1-shade: #381b63;
+	--ion-color-new1-tint: #53357f;
+}
+
+.ion-color-new1 {
+	--ion-color-base: var(--ion-color-new1);
+	--ion-color-base-rgb: var(--ion-color-new1-rgb);
+	--ion-color-contrast: var(--ion-color-new1-contrast);
+	--ion-color-contrast-rgb: var(--ion-color-new1-contrast-rgb);
+	--ion-color-shade: var(--ion-color-new1-shade);
+	--ion-color-tint: var(--ion-color-new1-tint);
+}

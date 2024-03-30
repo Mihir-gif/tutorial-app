@@ -1,0 +1,35 @@
+.contact-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .contact-form {
+    max-width: 400px;
+    width: 100%;
+  }
+  
+  ion-item {
+    --padding-start: 0;
+    --padding-end: 0;
+    --inner-padding-start: 0;
+    --inner-padding-end: 0;
+  }
+  
+  ion-label {
+    font-weight: bold;
+    font-size: 0.9rem;
+  }
+  
+  ion-input,
+  ion-textarea {
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  ion-button {
+    margin-top: 20px;
+  }
+  
