@@ -15,6 +15,6 @@
 [[Cloud Link]](https://ionic-tutorial-4c615.web.app)
 
 ## Team Members
-Mihir Suryakant Bhavsar
-Harshil Thakkar
+Mihir Suryakant Bhavsar | 
+Harshil Thakkar | 
 Rushi HiteshKumar Patel
